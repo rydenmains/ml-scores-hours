@@ -36,3 +36,14 @@ In today’s data-centric education landscape, accurately forecasting student pe
 
 📂 **Dataset Description**  
 The dataset is publicly available and contains critical information such as the number of study hours ⏰ and corresponding exam scores 📑, forming the basis for our predictive analysis.
+
+📢 **How to Run**
+Clone this repository:
+```git clone https://github.com/rydenmains/ml-student-scores.git```
+Install the required dependencies:
+```pip install -r requirements.txt```
+Run the Jupyter Notebook for data analysis and modeling.
+🏆 **Contributors**
+Raffa Hayden Putra Hendrawan
+📌 **License**
+This project is licensed under the MIT License.
