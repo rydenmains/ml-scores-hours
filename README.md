@@ -39,11 +39,19 @@ The dataset is publicly available and contains critical information such as the 
 
 📢 **How to Run**
 Clone this repository:
+
 ```git clone https://github.com/rydenmains/ml-student-scores.git```
+
 Install the required dependencies:
+
 ```pip install -r requirements.txt```
+
 Run the Jupyter Notebook for data analysis and modeling.
+
 🏆 **Contributors**
+
 Raffa Hayden Putra Hendrawan
+
 📌 **License**
+
 This project is licensed under the MIT License.
