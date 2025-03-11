@@ -40,7 +40,7 @@ The dataset is publicly available and contains critical information such as the 
 📢 **How to Run**
 Clone this repository:
 
-```git clone https://github.com/rydenmains/ml-student-scores.git```
+```git clone https://github.com/rydenmains/ml-scores-hours.git```
 
 Install the required dependencies:
 
